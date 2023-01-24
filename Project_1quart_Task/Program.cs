@@ -7,7 +7,7 @@
 // ["Russia", "Denmark", "Kazan"] -> []
 
 
-string[] array1 = new string[] {"24", "01", "hello", "world", "23", "Rostov", ":-)"};
+string[] array1 = new string[] {"24", "01", "hello", "world", "23", "RostovDon", ":-)"};
 string[] array2 = new string[array1.Length];
 int count = 0;
 FillArray(array1, array2);
